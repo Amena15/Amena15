@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am a passionate computer science student and an 
 
 ## 💬 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/amena-dev)
+- [LinkedIn](https://www.linkedin.com/in/amena-dev)
 - [Personal Website](https://amena15.github.io/portfolio-website/)
 
 ---
