@@ -4,13 +4,11 @@
 </h3>
 
 <p align="left">
-  - 🌱 I’m currently learning <strong>Deep Learning, AI + IoT Integration, Blockchain/DLT, and Advanced Software Architecture</strong><br>
-  - 👨‍💻 All of my projects are available at
-  <a href="https://amena15.github.io/portfolio-website/" target="_blank" rel="noopener noreferrer">https://amena15.github.io/portfolio-website/</a><br>
+  - 🌱 I’m currently learning <strong> AI and Deep Learning Integration, Blockchain/DLT, and Advanced Software Architecture</strong><br>
+  - 👨‍💻 All of my projects are available on my <a href="https://amena15.github.io/portfolio-website/" target="_blank" rel="noopener noreferrer"><strong>AmenaSite</strong></a><br>
   - 📫 How to reach me: 
   <a href="mailto:Amena_mohammed15@outlook.com">Amena_mohammed15@outlook.com</a><br>
-  - 📄 Know about my experiences: 
-  <a href="https://drive.google.com/file/d/1YmnNNmMzOeMHk9B8oHHWg8wJ4MyNlPqI/view?usp=share_link" target="_blank" rel="noopener noreferrer">Resume / CV</a><br>
+  - 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/1YmnNNmMzOeMHk9B8oHHWg8wJ4MyNlPqI/view?usp=share_link" target="_blank" rel="noopener noreferrer"><strong>Resume</strong></a><br>
   - ⚡ Fun fact: <em>I design systems that can scale — even when my sleep schedule doesn’t.</em>
 </p>
 
@@ -18,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/amena-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amena-dev" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/amena-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amena-dev" height="30" width="40" /></a>
 <a href="https://instagram.com/m.onii7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.onii7" height="30" width="40" /></a>
 </p>
 
